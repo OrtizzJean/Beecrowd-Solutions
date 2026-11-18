@@ -10,10 +10,10 @@ Os exercícios estão organizados por categorias da plataforma:
 
 ```text
 beecrowd-solutions/
-├── iniciante/
-├── estruturas-de-dados/
-├── grafos/
-├── sql/
+├── Iniciante/
+├── Estruturas-De-Dados/
+├── Grafos/
+├── SQL/
 └── README.md
 ```
 
