@@ -11,9 +11,9 @@ Os exercícios estão organizados por categorias da plataforma:
 ```text
 beecrowd-solutions/
 ├── Iniciante/
+├── SQL/
 ├── Estruturas-De-Dados/
 ├── Grafos/
-├── SQL/
 └── README.md
 ```
 
