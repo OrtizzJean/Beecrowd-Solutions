@@ -22,9 +22,9 @@ beecrowd-solutions/
 Cada desafio resolvido possui o seu próprio arquivo (`.java` ou `.sql`), nomeado com o número e o título correspondente na plataforma. O foco das resoluções é manter um código limpo, de fácil leitura e com otimização lógica de tempo e espaço.
 
 **Exemplos de nomenclatura:**
-* `1048_Aumento_de_Salario.java`
-* `1052_Mes.java`
-* `2602_Select_Basico.sql`
+* `1048-Aumento-de-Salario.java`
+* `1052-Mes.java`
+* `2602-Select-Basico.sql`
 
 ## 📝 Exemplo de Problema: 1001 - Extremamente Básico ✅ ACCEPTED
 
